@@ -8,19 +8,27 @@ You need to have nodeJs and bower installed or you can use the Docker image.
 
 ## From source
 To run the server install bower components by
-> bower install
+ > bower install
+
 Then install nodeJs dependencies
-> npm install
+
+ > npm install
+
 Then run it
-> node src/index.js
+
+ > node src/index.js
 
 To see magic happens open you browser at http://localhost:3000/   then run test.sh several times.
 
 ## From Docker image
+
 Build the docker image
-> ./build.sh
+
+ > ./build.sh
+
 Start the docker container
-> ./start.sh
+
+ > ./start.sh
 
 This will launch the server at the port 3000
 
