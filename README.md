@@ -1,6 +1,6 @@
 # SentiStorm-NodeJsReporter
 
-A simple  NodeJS + Sockets.io application that serve as an endpoint for a tweets sentiments analysis platforme.
+A simple  NodeJS + Sockets.io application that serve as an endpoint for a tweet-sentiments analysis platforme.
 
 You need to have nodeJs and bower installed or you can use the Docker image.
 
